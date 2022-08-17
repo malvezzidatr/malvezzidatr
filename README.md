@@ -1,34 +1,59 @@
-## Caio Malvezzi! Full Stack Developer!
-<div align="center">
-  <a href="https://github.com/malvezzidatr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvezzidatr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="Caio-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  
-  <img align="center" alt="Caio-Knockout" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
-  <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Caio-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caio-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Caio-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  
-  <img align="center" alt="Caio-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  
-</div>
-  
-  ##
- 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" height="365" />
+
+```typescript
+interface IUser {
+  name: string;
+  age: number;
+  acknowledgements: string;
+  primarySkillset: string[];
+  languages: string[];
+  frameworks: string[];
+}
+
+const caio_malvezzi: IUser = {
+    name: "Caio Vinícius Malvezzi",
+    age: 22,
+    acknowledgements: "Frontend Developer",
+    primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
+    languages: ["Javascript", "Typescript"],
+    framworks: ["Vue", "React", "React Native"]
+}
+```
+
+
+## **Knowledge**  
+
 <div>
-  <a href = "mailto:caiomalvezzi101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caiomalvezzi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 </div>
+
+
+## **GitHub Values**
+
+<a href="https://github.com/malvezzidatr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvezzidatr&theme=dracula&hide_langs_below=1" height="250" />
+</a>
+
+<a href="https://github.com/malvezzidatr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="CAIO MALVEZZI github stats" height="250" />
+</a>
+
+[website]: https://httpstatusdogs.com/404-not-found
+[linkedin]: https://www.linkedin.com/in/caiomalvezzi/
+<br>
+
+#### Social Media!
+
+🏡 [website][website] **|** 👔 [linkedin][linkedin]
