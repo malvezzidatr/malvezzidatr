@@ -8,12 +8,12 @@
 
 ```typescript
 interface IUser {
-  name: string;
-  age: number;
-  acknowledgements: string;
-  primarySkillset: string[];
-  languages: string[];
-  frameworks: string[];
+    name: string;
+    age: number;
+    acknowledgements: string;
+    primarySkillset: string[];
+    languages: string[];
+    frameworks: string[];
 }
 
 const caio_malvezzi: IUser = {
@@ -53,7 +53,7 @@ const caio_malvezzi: IUser = {
 </a>
 
 <a href="https://github.com/malvezzidatr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="CAIO MALVEZZI github stats" height="220" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"     alt="CAIO MALVEZZI github stats" height="220" />
 </a>
 
 [website]: https://httpstatusdogs.com/404-not-found
