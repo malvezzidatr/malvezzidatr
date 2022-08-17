@@ -1,7 +1,9 @@
 # Hi, I'm Caio Malvezzi <br>
-> Frontend Developer. <br>
-> 2 years of experience. <br>
-> I'm working at Compass UOL.
+> 👩🏼‍💻 Frontend Developer. <br>
+> 🥈 2 years of experience. <br>
+> 🌎 Working at Compass UOL. <br>
+> 🏖 Brazilian
+
 <br>
 
 ## About me
