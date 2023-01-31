@@ -2,7 +2,7 @@
 > 👩🏼‍💻 Frontend Developer. <br>
 > 🥈 2 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
-> 🏖 Brazilian
+> ⚽ Brazilian
 
 <br>
 
