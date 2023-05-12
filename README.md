@@ -1,8 +1,9 @@
 # Hi, I'm Caio Malvezzi <br>
-> 👩🏼‍💻 Frontend / Mobile Developer. <br>
+> 👩🏼‍💻 Frontend / Mobile Developer / learning backend. <br>
 > 🥈 2 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
+> 🎓 I Have degree in Software Analysis and Development
 
 <br>
 
@@ -16,15 +17,17 @@ interface IUser {
     primarySkillset: string[];
     languages: string[];
     frameworks: string[];
+    studying: string[];
 }
 
 const caio_malvezzi: IUser = {
     name: "Caio Vinícius Malvezzi",
-    age: 22,
+    age: 23,
     acknowledgements: "Frontend Developer",
     primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
     languages: ["Javascript", "Typescript"],
-    frameworks: ["Vue", "React", "React Native"]
+    frameworks: ["Vue", "React", "React Native", "Oracle Cloud Commerce", "Open Storefront Framework"],
+    studying: ["Backend", "Java", "Spring Boot"]
 }
 ```
 
