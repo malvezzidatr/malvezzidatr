@@ -54,11 +54,11 @@ const caio_malvezzi: IUser = {
 ## **GitHub Values**
 
 <a href="https://github.com/malvezzidatr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvezzidatr&theme=dracula&hide_langs_below=1" height="220" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvezzidatr&theme=dracula&hide_langs_below=1" height="220" />
 </a>
 
 <a href="https://github.com/malvezzidatr">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"     alt="CAIO MALVEZZI github stats" height="220" />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvezzidatr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"     alt="CAIO MALVEZZI github stats" height="220" />
 </a>
 
 [website]: https://httpstatusdogs.com/404-not-found
