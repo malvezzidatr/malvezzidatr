@@ -1,6 +1,6 @@
 # Hi, I'm Caio Malvezzi <br>
 > 👩🏼‍💻 Frontend / Mobile Developer / learning backend. <br>
-> 🥈 2 years of experience. <br>
+> 🥉 3 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
 > 🎓 I Have degree in Software Analysis and Development
