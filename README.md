@@ -23,10 +23,10 @@ interface IUser {
 const caio_malvezzi: IUser = {
     name: "Caio Vinícius Malvezzi",
     age: 23,
-    acknowledgements: "Frontend Developer",
+    acknowledgements: "Fullstack Developer",
     primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
     languages: ["Javascript", "Typescript"],
-    frameworks: ["Vue", "React", "React Native", "Oracle Cloud Commerce", "Open Storefront Framework"],
+    frameworks: ["Vue", "React", "React Native", "Oracle Cloud Commerce", "Open Storefront Framework", "NestJS"],
     studying: ["Backend", "Java", "Spring Boot"]
 }
 ```
