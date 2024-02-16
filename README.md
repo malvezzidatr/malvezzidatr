@@ -22,7 +22,7 @@ interface IUser {
 
 const caio_malvezzi: IUser = {
     name: "Caio Vinícius Malvezzi",
-    age: 23,
+    age: 24,
     acknowledgements: "Fullstack Developer",
     primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
     languages: ["Javascript", "Typescript"],
