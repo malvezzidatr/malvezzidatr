@@ -1,9 +1,10 @@
 # Hi, I'm Caio Malvezzi <br>
-> 👩🏼‍💻 Frontend / Mobile Developer / learning backend. <br>
-> 🥉 3 years of experience. <br>
+> 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
+> 🥉 3.5 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
-> 🎓 I Have degree in Software Analysis and Development
+> 🎓 I Have degree in Software Analysis and Development <br>
+> 👨‍🏫 I really, really like to teach other peoples. Today I'm using medium for this.
 
 <br>
 
@@ -63,8 +64,9 @@ const caio_malvezzi: IUser = {
 
 [website]: https://httpstatusdogs.com/404-not-found
 [linkedin]: https://www.linkedin.com/in/caiomalvezzi/
+[medium]: https://medium.com/@malvezzi.dev
 <br>
 
 #### Social Media!
 
-🏡 [website][website] **|** 👔 [linkedin][linkedin]
+🏡 [website][website] **|** 👔 [linkedin][linkedin] **|** 📚 [medium][medium]
