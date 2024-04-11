@@ -65,8 +65,9 @@ const caio_malvezzi: IUser = {
 [website]: https://httpstatusdogs.com/404-not-found
 [linkedin]: https://www.linkedin.com/in/caiomalvezzi/
 [medium]: https://medium.com/@malvezzi.dev
+[leetcode]: https://leetcode.com/MaIvezzi/
 <br>
 
 #### Social Media!
 
-🏡 [website][website] **|** 👔 [linkedin][linkedin] **|** 📚 [medium][medium]
+🏡 [website][website] **|** 👔 [linkedin][linkedin] **|** 📚 [medium][medium] **|** 👨‍💻 [leetcode][leetcode]
