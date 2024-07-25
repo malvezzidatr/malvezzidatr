@@ -28,7 +28,7 @@ const caio_malvezzi: IUser = {
     primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
     languages: ["Javascript", "Typescript"],
     frameworks: ["Vue", "React", "React Native", "Oracle Cloud Commerce", "Open Storefront Framework", "NestJS"],
-    studying: ["Mobile", "Swift", "SwiftUI"]
+    studying: ["Mobile", "Swift", "SwiftUI", "XCTest"]
 }
 ```
 
