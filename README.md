@@ -1,6 +1,6 @@
 # Hi, I'm Caio Malvezzi <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
-> 🥉 3.5 years of experience. <br>
+> 🚀 4 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
 > 🎓 I Have degree in Software Analysis and Development <br>
