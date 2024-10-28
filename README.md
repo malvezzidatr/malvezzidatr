@@ -3,8 +3,9 @@
 > 🚀 4 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
-> 🎓 I Have degree in Software Analysis and Development <br>
+> 🎓 Degree in Software Analysis and Development <br>
 > 👨‍🏫 I really, really like to teach other peoples. Today I'm using medium for this.
+> 🏛️ Future Software Architect
 
 <br>
 
@@ -18,7 +19,9 @@ interface IUser {
     primarySkillset: string[];
     languages: string[];
     frameworks: string[];
+    libs: string[];
     studying: string[];
+    reading: string[];
 }
 
 const caio_malvezzi: IUser = {
@@ -26,9 +29,11 @@ const caio_malvezzi: IUser = {
     age: 24,
     acknowledgements: "Fullstack Developer",
     primarySkillset: ["Problem Solving", "Creativity", "Leadership skills", "Teamwork"],
-    languages: ["Javascript", "Typescript"],
-    frameworks: ["Vue", "React", "React Native", "Oracle Cloud Commerce", "Open Storefront Framework", "NestJS"],
-    studying: ["Mobile", "Swift", "SwiftUI", "XCTest"]
+    languages: ["Javascript", "Typescript", "Java"],
+    frameworks: ["NextJS", "React Native", "Expo", "Springboot", "NestJS"],
+    libs: ["ReactJS", "Styled Components", "React Query", "Redux", "Zustand"],
+    studying: ["Software Architecture", "Design Patterns", "Cloud", "DDD", "Microservices", "Event-Driven"],
+    reading: ["Fundamentals of Software Architecture"]
 }
 ```
 
