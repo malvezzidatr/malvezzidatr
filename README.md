@@ -4,7 +4,7 @@
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
 > 🎓 Degree in Software Analysis and Development <br>
-> 👨‍🏫 I really, really like to teach other peoples. Today I'm using medium for this.
+> 👨‍🏫 I really, really like to teach other peoples. Today I'm using medium for this. <br>
 > 🏛️ Future Software Architect
 
 <br>
