@@ -5,7 +5,7 @@
 > ⚽ Brasileiro. <br>
 > 🎓 Formado em análise e desenvolvimento de software. <br>
 > 🏛️ Sonhando em ser arquiteto de software! <br>
-> Nível de portugues: Língua materna.
+> 🇧🇷 Nível de portugues: Língua materna.
 
 
 # Hi, I'm Caio Malvezzi <br>
@@ -15,7 +15,7 @@
 > ⚽ Brazilian. <br>
 > 🎓 Degree in Software Analysis and Development. <br>
 > 🏛️ Future Software Architect. <br>
-> English level: High B1 ~ Low B2
+> 🇺🇸 English level: High B1 ~ Low B2
 
 # Salut, Je suis Caio Malvezzi. <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
@@ -24,7 +24,7 @@
 > ⚽ Bresilien. <br>
 > 🎓 Diplômé en analyse et développement de systèmes. <br>
 > 🏛️ Futur architecte logiciel. <br>
-> Niveau de français: A1 élevé – bonne compréhension écrite, vocabulaire de base acquis, en progression vers A2. 
+> 🇫🇷 Niveau de français: A1 élevé – bonne compréhension écrite, vocabulaire de base acquis, en progression vers A2. 
 
 <br>
 
