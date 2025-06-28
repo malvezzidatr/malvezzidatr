@@ -1,15 +1,34 @@
+# Olá, me chamo Caio Malvezzi <br>
+> 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
+> 🚀 4 anos de experiência. <br>
+> 🌎 Trabalho na Compass UOL. <br>
+> ⚽ Brasileiro. <br>
+> 🎓 Formado em análise e desenvolvimento de software. <br>
+> 🏛️ Sonhando em ser arquiteto de software!
+> Nível de portugues: Língua materna.
+
+
 # Hi, I'm Caio Malvezzi <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
 > 🚀 4 years of experience. <br>
 > 🌎 Working at Compass UOL. <br>
 > ⚽ Brazilian. <br>
-> 🎓 Degree in Software Analysis and Development <br>
-> 👨‍🏫 I really, really like to teach other peoples. Today I'm using medium for this. <br>
-> 🏛️ Future Software Architect
+> 🎓 Degree in Software Analysis and Development. <br>
+> 🏛️ Future Software Architect.
+> English level: High B1 ~ Low B2
+
+# Salut, Je suis Caio Malvezzi. <br>
+> 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
+> 🚀 Je travaille comme developpeur depuis quatre ans. <br>
+> 🌎 Travaille chez Compass.UOL. <br>
+> ⚽ Bresilien. <br>
+> 🎓 Diplômé en analyse et développement de systèmes. <br>
+> 🏛️ Futur architecte logiciel.
+> Niveau de français: A1 élevé – bonne compréhension écrite, vocabulaire de base acquis, en progression vers A2. 
 
 <br>
 
-## About me
+## Sobre mim | About me | À propos de moi
 
 ```typescript
 interface IUser {
@@ -72,7 +91,6 @@ const caio_malvezzi: IUser = {
 
 [website]: https://httpstatusdogs.com/404-not-found
 [linkedin]: https://www.linkedin.com/in/caiomalvezzi/
-[medium]: https://medium.com/@malvezzi.dev
 [leetcode]: https://leetcode.com/MaIvezzi/
 <br>
 
