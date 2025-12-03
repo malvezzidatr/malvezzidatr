@@ -1,7 +1,7 @@
 # Olá, me chamo Caio Malvezzi <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
-> 🚀 4 anos de experiência. <br>
-> 🌎 Trabalho na Compass UOL. <br>
+> 🚀 5 anos de experiência. <br>
+> 🌎 Trabalho no Instituto de Pesquisa Eldorado. <br>
 > ⚽ Brasileiro. <br>
 > 🎓 Formado em análise e desenvolvimento de software. <br>
 > 🏛️ Sonhando em ser arquiteto de software! <br>
@@ -10,8 +10,8 @@
 
 # Hi, I'm Caio Malvezzi <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
-> 🚀 4 years of experience. <br>
-> 🌎 Working at Compass UOL. <br>
+> 🚀 5 years of experience. <br>
+> 🌎 Working at Eldorado. <br>
 > ⚽ Brazilian. <br>
 > 🎓 Degree in Software Analysis and Development. <br>
 > 🏛️ Future Software Architect. <br>
@@ -19,8 +19,8 @@
 
 # Salut, Je suis Caio Malvezzi. <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
-> 🚀 Je travaille comme developpeur depuis quatre ans. <br>
-> 🌎 Travaille chez Compass.UOL. <br>
+> 🚀 Je travaille comme developpeur depuis cinq ans. <br>
+> 🌎 Travaille chez Eldorado. <br>
 > ⚽ Bresilien. <br>
 > 🎓 Diplômé en analyse et développement de systèmes. <br>
 > 🏛️ Futur architecte logiciel. <br>
