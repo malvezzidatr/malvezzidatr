@@ -15,7 +15,7 @@
 > ⚽ Brazilian. <br>
 > 🎓 Degree in Software Analysis and Development. <br>
 > 🏛️ Future Software Architect. <br>
-> 🇺🇸 English level: High B1 ~ Low B2
+> 🇺🇸 English level: B2 ~ High B2
 
 # Salut, Je suis Caio Malvezzi. <br>
 > 👩🏼‍💻 React / React Native / SpringBoot / NestJS. <br>
